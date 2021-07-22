@@ -32,7 +32,7 @@ Linux(O sistema supremo), MacOS(Bom e bunitu), Windows(da pro gasto)
 
 #### Javascript
 - [Introdução a objetos em Javascript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects)
-- [https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Client-side_web_APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
+- [Client-side web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
 
 ### Avançado
 #### CSS
