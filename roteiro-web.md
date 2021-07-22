@@ -10,26 +10,35 @@ vscode[disparado], Atom, bloco de notas[melhor que nada]
 ### Sistema Operacional
 Linux(O sistema supremo), MacOS(Bom e bunitu), Windows(da pro gasto)
 
-## front-end
-### Html
-- [Introdução ao HTML](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML)
-- [Imagens em HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
-
-### Css
-- [Primeiros passos com CSS](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps)
-- [Estilizando texto](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/Styling_text)
-- [CSS layout](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout)
-
-### JavaScript
-- {!!!precisa ser dissecado ainda!!!} [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-
 ## back-end
 - [Pense em Python](https://penseallen.github.io/PensePython2e/)
 
-## Tópicos avançados
-- [Construindo blocos CSS](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/Building_blocks)
+## front-end
 
-## Extras
-- [Formulários](https://developer.mozilla.org/pt-BR/docs/Learn/Forms)
-- [Progressive web apps](https://developer.mozilla.org/pt-BR/docs/Web/Progressive_web_apps)
-- [Testes](https://developer.mozilla.org/pt-BR/docs/Learn/Tools_and_testing)
+### Iniciante
+#### HTML
+- [Introdução ao HTML](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML)
+#### CSS
+- [Primeiros passos com CSS](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps)
+#### JavaScript
+- [Primeiros passos com JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps)
+- [Elementos construtivos do Javascript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks)
+
+### Itermediario
+#### CSS 
+- [CSS layout](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout)
+#### Javascript
+- [Introdução a objetos em Javascript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects)
+- [https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Client-side_web_APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
+
+### Avançado
+#### CSS
+-[Usando CSS transforms](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms)
+-[Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+-
+
+## Extra
+- [Ultra guia de javascript](https://developer.mozilla.org/pt-BR/docs/orphaned/Web/JavaScript/Guide)
+- [Tabelas em HTML](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Tables)
+- [Formulários da Web](https://developer.mozilla.org/pt-BR/docs/Learn/Forms)
+-[Web Components](https://developer.mozilla.org/pt-BR/docs/Web/Web_Components)
