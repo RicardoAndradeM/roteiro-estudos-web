@@ -18,8 +18,10 @@ Linux(O sistema supremo), MacOS(Bom e bunitu), Windows(da pro gasto)
 ### Iniciante
 #### HTML
 - [Introdução ao HTML](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML)
+
 #### CSS
 - [Primeiros passos com CSS](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps)
+
 #### JavaScript
 - [Primeiros passos com JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps)
 - [Elementos construtivos do Javascript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks)
@@ -27,6 +29,7 @@ Linux(O sistema supremo), MacOS(Bom e bunitu), Windows(da pro gasto)
 ### Itermediario
 #### CSS 
 - [CSS layout](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout)
+
 #### Javascript
 - [Introdução a objetos em Javascript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects)
 - [https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Client-side_web_APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
