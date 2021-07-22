@@ -33,9 +33,8 @@ Linux(O sistema supremo), MacOS(Bom e bunitu), Windows(da pro gasto)
 
 ### Avançado
 #### CSS
--[Usando CSS transforms](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms)
--[Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
--
+- [Usando CSS transforms](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms)
+- [Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
 
 ## Extra
 - [Ultra guia de javascript](https://developer.mozilla.org/pt-BR/docs/orphaned/Web/JavaScript/Guide)
